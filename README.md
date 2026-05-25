@@ -1,5 +1,4 @@
 # Smart Habit Tracker with Reward System 🌟
-Smart Habit Tracker with Reward System 🌟 is a Python-based application that helps users build and maintain positive habits through daily tracking and rewards. It allows users to monitor progress, earn points for completed habits, receive motivational feedback, and improve consistency with an interactive and engaging system.
 
 Smart Habit Tracker with Reward System is a Python-based application designed to help users build and maintain healthy daily habits through an engaging point-based system. The application allows users to add multiple habits and track their completion over several days. For every completed habit, users earn reward points, while missed habits reduce points, encouraging accountability and consistency.
 
